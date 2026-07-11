@@ -1,9 +1,8 @@
 <h1 align="center">Olá, eu sou Lucas Rosa 👋</h1>
 <h3 align="center">Área de Dados & Inteligência Artificial</h3>
 <p align="center">
-  [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 </p>
-
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 🧠 Sobre mim
 
 Atuo na área de Dados e Inteligência Artificial, com foco em análise, organização e visualização de informações para apoiar decisões. Trabalho com Python e SQL para tratamento e manipulação de dados, e utilizo Power BI e Excel para transformar esses dados em relatórios e dashboards claros. Também incorporo ferramentas de IA, como o Claude, no meu fluxo de trabalho para agilizar análises e automatizar tarefas repetitivas.
