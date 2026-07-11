@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Olá, eu sou Lucas Rosa 👋</h1>
 <h3 align="center">Área de Dados & Inteligência Artificial</h3>
 <p align="center">
