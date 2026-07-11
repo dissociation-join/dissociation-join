@@ -32,11 +32,3 @@ Estou em fase de construção do meu portfólio de projetos — em breve novidad
 </p>
 
 ---
-
-## 📈 Contribuição
-
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&custom_title=Lucas's%20Contribution%20Graph" />
-  </a>
-</p>
